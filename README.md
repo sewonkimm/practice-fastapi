@@ -1,4 +1,4 @@
-#⚡️FastAPI
+# ⚡️FastAPI
 
 python3.6 이상으로 API를 빌드하기 위한 고성능 모던 프레임워크
 
